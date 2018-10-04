@@ -1,2 +1,2 @@
 # SmartPointer
-Exercicio de smart pointers em C++ para estudo de POO
+Exercicio de chain em C++ para estudo de POO
